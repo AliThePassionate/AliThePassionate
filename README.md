@@ -38,22 +38,20 @@ I'm Muhammad Ali , a software developer with over +1 years of experience in web 
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a><br>
   </p>
 </details>
- <a href="#"><img alt="Dit" src="https://img.shields.io/badge/Git-000000.svg?logo=vercel&logoColor=white"></a><br>
-- Tools: Git, VS Code, Slack
+  <h1> Tools</h1>
+ Git, VS Code, Slack
 
 
 ## Contact 📫
-* Email: hashiimtahir@gmail.com
-* Linkedin: [LinkedIn](https://www.linkedin.com/in/hashimthepassionate/)
+- Github [GitHub](https://github.com/AliThePassionate)
+- linkedin [linkedin](https://www.linkedin.com/in/hashimthepassionate/)
 
 ## 📊 GitHub Stats:
 ![hashimthepassionate's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliThePassionate&theme=graywhite&hide_border=true)</br>
 ![hashimthepassionate's Stats](https://github-readme-stats.vercel.app/api?username=AliThePassionate&theme=graywhite&show_icons=true&hide_border=true&count_private=true)</br>
 ![hashimthepassionate's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashimthepassionate&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
 
-## Contact 📫
-- Github [Git
-- linkedin [linkedin](https://www.linkedin.com/in/hashimthepassionate/)
+
 <!--
 **AliThePassionate/AliThePassionate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
