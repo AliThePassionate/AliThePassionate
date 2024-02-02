@@ -49,7 +49,7 @@ I'm Muhammad Ali , a software developer with over +1 years of experience in web 
 ## 📊 GitHub Stats:
 ![hashimthepassionate's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliThePassionate&theme=graywhite&hide_border=true)</br>
 ![hashimthepassionate's Stats](https://github-readme-stats.vercel.app/api?username=AliThePassionate&theme=graywhite&show_icons=true&hide_border=true&count_private=true)</br>
-![hashimthepassionate's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashimthepassionate&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+![hashimthepassionate's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliThePassionate&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
 
 
 <!--
